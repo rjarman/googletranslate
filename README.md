@@ -1,4 +1,4 @@
-#googletranslate
+# googletranslate
 
 This is the demo explanation for google translator using googletrans library. It converts english sentences to bengali using google translator API. Here I have used .xlsx. Every row is translated and saved to .csv format. 
 
